@@ -1,1 +1,1 @@
-Here is a new file.  It is a great file :) It is now being modified in a branch.
+Here is a new file.  It is a great file :) It is now being modified in a branch. Now in a subbranch.
