@@ -1,1 +1,1 @@
-Here is a new file.  It is a great file :)
+Here is a new file.  It is a great file :) It is being modified on master.
